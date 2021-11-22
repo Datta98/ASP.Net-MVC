@@ -1,0 +1,6 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\ClassLibraryData\bin\Debug\ClassLibraryData.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\ClassLibraryData\bin\Debug\ClassLibraryData.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\ClassLibraryData\obj\Debug\ClassLibraryData.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\ClassLibraryData\obj\Debug\ClassLibraryData.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\ClassLibraryData\obj\Debug\ClassLibraryData.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\ClassLibraryData\obj\Debug\ClassLibraryData.pdb
