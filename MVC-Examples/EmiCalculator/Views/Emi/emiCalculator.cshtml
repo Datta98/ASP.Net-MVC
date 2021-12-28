@@ -1,0 +1,119 @@
+﻿
+@{
+    ViewBag.Title = "emiCalculator";
+}
+
+<h2>emiCalculator</h2>
+
+<div class=" main">
+
+
+    <div class="container">
+        <div>
+            <h1>
+                <img src="~/images/logo.png" />
+                Excel Bank
+            </h1>
+        </div>
+
+        <br />
+        <h2>Credit Card EMI Calculator</h2>
+        <div class="row" style="border: solid">
+            <div class="col-md-6 border-right border-dark">
+                <h2>Type of EMI</h2>
+
+
+                @using (Html.BeginForm("emiCalculator", "Emi", FormMethod.Post))
+                {
+                    <h5>Transaction Amount</h5>
+                    <div class="slidecontainer row">
+                        <input oninput="loanamt()" type="range" onchange="" min="1500" max="999999" value="1500" class="slider col-md-6 " name="loan_amt" id="loan_amt" style="padding: 0; margin-left: 2%;" />
+                        <p class="col-md-4">Value: <span id="demo">1500</span></p>
+                    </div>
+
+
+                    <h5>Tenure</h5>
+                    <div class="slidecontainer row">
+                        <input oninput="myfunction2()" type="range" min="3" max="18" value="3" step="3" class="slider1 col-md-6 " id="tenure" name="tenure" style="padding: 0; margin-left: 2%;" />
+                        <p class="col-md-4">Value: <span id="demo1">3</span> Months</p>
+                    </div>
+
+                    <h5>Rate of Intrest Per Annum(%)</h5>
+                    <div class="slidecontainer row">
+                        <input oninput="myfunction3()" type="range" min="1" max="15" value="1" step="0.01" class="slider2 col-md-6 " id="interest" name="interest" style="padding: 0; margin-left: 2%;" />
+                        <p class="col-md-4">Value: <span id="demo2">1</span></p>
+                    </div>
+                    <input type="submit" ID="Button1" name="calculate_btn" Text="Calculate" Class="btn btn-danger" />
+
+                    <div class="row">
+                        <p class="col-md-6" style="margin: 0;">Monthly Emi</p>
+                        <label value="@ViewBag.loanamt">Rs.</label>
+                    </div>
+                    <div class="row">
+                        <p class="col-md-6" style="margin: 0;">Total Interest Amount</p>
+                        <label value="@ViewBag.interest">Rs.</label>
+                    </div>
+                    <div class="row">
+                        <p class="col-md-6" style="margin: 0;">Total Amount Payable</p>
+                        <label value="@ViewBag.tenure">Rs.</label>
+                    </div>
+
+                }
+
+
+            </div>
+
+            <div class="col-md-6">
+                <h3>Amount and Interest</h3>
+
+                <input id="Radio1" name="list" type="radio" OnSelectedIndexChanged="RadioButtonList1_SelectedIndexChanged" />
+                <asp:ListItem Selected="True">Table </asp:ListItem>
+                <input id="Radio2" name="list" type="radio" />
+                <asp:ListItem>Graph</asp:ListItem>
+
+                <div id="emitable" runat="server">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Firstname</th>
+                                <th>Lastname</th>
+                                <th>Email</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>John</td>
+                                <td>Doe</td>
+                                <td>john@example.com</td>
+                            </tr>
+                            <tr>
+                                <td>Mary</td>
+                                <td>Moe</td>
+                                <td>mary@example.com</td>
+                            </tr>
+                            <tr>
+                                <td>July</td>
+                                <td>Dooley</td>
+                                <td>july@example.com</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+                </div>
+
+                <div id="emigraph" runat="server">
+
+                    <button class="btn btn-info" onclick="myFunction_(toggler1)" id="2">know more</button>
+
+                </div>
+
+
+
+            </div>
+
+            <script src="~/Scripts/Emi.js"></script>
+
+        </div>
+    </div>
+</div>
