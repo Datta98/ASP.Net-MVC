@@ -1,0 +1,294 @@
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\ApplicationInsights.config
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\csc.exe
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\csc.exe.config
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\csc.rsp
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\csi.exe
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\csi.exe.config
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\csi.rsp
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Console.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Threading.Thread.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\vbc.exe
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\vbc.exe.config
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\vbc.rsp
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\WebApp.dll.config
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\WebApp.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\WebApp.pdb
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Antlr3.Runtime.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\BMICalculatorLib.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.Web.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Newtonsoft.Json.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Helpers.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Http.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Mvc.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Optimization.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Razor.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.WebPages.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\WebGrease.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\BMICalculatorLib.pdb
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Newtonsoft.Json.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Helpers.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Http.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Mvc.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Optimization.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.Razor.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.WebPages.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\bin\Microsoft.AI.Web.xml
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\obj\Debug\WebApp.dll
+c:\users\srivatsa.mc\source\repos\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\ApplicationInsights.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\WebApp.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.Win32.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\netstandard.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.AppContext.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Collections.Concurrent.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Collections.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Collections.NonGeneric.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Collections.Specialized.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.ComponentModel.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Console.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Data.Common.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.Contracts.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.Debug.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.Process.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.StackTrace.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.Tools.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.TraceSource.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Diagnostics.Tracing.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Drawing.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Dynamic.Runtime.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Globalization.Calendars.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Globalization.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Globalization.Extensions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.Compression.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.Compression.ZipFile.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.FileSystem.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.IsolatedStorage.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.Pipes.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Linq.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Linq.Expressions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Linq.Parallel.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Linq.Queryable.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Http.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.NameResolution.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.NetworkInformation.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Ping.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Requests.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Security.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Sockets.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.WebHeaderCollection.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.WebSockets.Client.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.WebSockets.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.ObjectModel.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Reflection.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Reflection.Extensions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Reflection.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Resources.Reader.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Resources.ResourceManager.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Resources.Writer.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Extensions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Handles.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.InteropServices.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Numerics.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Serialization.Json.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Claims.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Cryptography.Csp.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.Principal.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Security.SecureString.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Text.Encoding.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Text.Encoding.Extensions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Text.RegularExpressions.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.Overlapped.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.Tasks.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.Thread.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.ThreadPool.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Threading.Timer.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.ValueTuple.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Xml.ReaderWriter.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Xml.XDocument.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Xml.XmlDocument.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Xml.XmlSerializer.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Xml.XPath.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Xml.XPath.XDocument.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\BMIValueCalculationLib.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Helpers.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\BMICalculatorLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\BMIValueCalculationLib.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Helpers.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\MVCPractice\MVCPractice\WebApp\WebApp\obj\Debug\WebApp.pdb
